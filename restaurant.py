@@ -3,4 +3,5 @@ class Restaurant:
         self.restaurant_name = name
         self.cuisine_type = cuisine
 
-    def
+    def describe_restaurant (self):
+        print(f"sel")
